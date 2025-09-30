@@ -1,4 +1,2 @@
 *.ipynb_checkpoints 
-*.Rdata
-*.csv
 *.DS_Store
